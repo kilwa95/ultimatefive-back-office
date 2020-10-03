@@ -17,8 +17,8 @@
 import React from "react";
 import { Route, Switch, Redirect } from "react-router-dom";
 
-import AuthNavbar from "components/Navbars/AuthNavbar.js";
-import Footer from "components/Footer/Footer.js";
+import AuthNavbar from "containers/Navbars/AuthNavbar.js";
+import Footer from "containers/Footer/Footer.js";
 
 import routes from "routes.js";
 

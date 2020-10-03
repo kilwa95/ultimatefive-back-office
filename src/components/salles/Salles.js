@@ -1,5 +1,5 @@
 import React from "react";
-import ListSalle from "views/salles/ListSalle"
+import ListSalle from "components/salles/ListSalle"
 
 import { BrowserRouter as Router,Route ,Switch ,NavLink} from "react-router-dom";
 import { Nav, NavItem} from 'reactstrap';

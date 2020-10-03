@@ -22,10 +22,10 @@ import PerfectScrollbar from "perfect-scrollbar";
 import NotificationAlert from "react-notification-alert";
 
 // core components
-import AdminNavbar from "components/Navbars/AdminNavbar.js";
-import Footer from "components/Footer/Footer.js";
-import Sidebar from "components/Sidebar/Sidebar.js";
-import FixedPlugin from "components/FixedPlugin/FixedPlugin.js";
+import AdminNavbar from "containers/Navbars/AdminNavbar.js";
+import Footer from "containers/Footer/Footer.js";
+import Sidebar from "containers/Sidebar/Sidebar.js";
+import FixedPlugin from "containers/FixedPlugin/FixedPlugin.js";
 
 import routes from "routes.js";
 

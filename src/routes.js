@@ -15,13 +15,13 @@
 
 */
 
-import Dashboard from "views/Dashboard.js";
+import Dashboard from "components/Dashboard.js";
 
-import NewUser from "views/users/NewUser"
-import ListUsers from "views/users/ListUsers"
+import NewUser from "components/users/NewUser"
+import ListUsers from "components/users/ListUsers"
 
-import Salles from "views/salles/Salles"
-import NewSalle from "views/salles/NewSalle.js"
+import Salles from "components/salles/Salles"
+import NewSalle from "components/salles/NewSalle.js"
 
 const routes = [
   {
