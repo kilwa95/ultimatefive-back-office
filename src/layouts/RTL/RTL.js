@@ -21,11 +21,11 @@ import PerfectScrollbar from "perfect-scrollbar";
 // react plugin for creating notifications over the dashboard
 import NotificationAlert from "react-notification-alert";
 
-// core components
-import RTLNavbar from "components/Navbars/RTLNavbar.js";
-import Footer from "components/Footer/Footer.js";
-import Sidebar from "components/Sidebar/Sidebar.js";
-import FixedPlugin from "components/FixedPlugin/FixedPlugin.js";
+// core containers
+import RTLNavbar from "containers/Navbars/RTLNavbar.js";
+import Footer from "containers/Footer/Footer.js";
+import Sidebar from "containers/Sidebar/Sidebar.js";
+import FixedPlugin from "containers/FixedPlugin/FixedPlugin.js";
 
 import routes from "routes.js";
 
